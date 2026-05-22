@@ -24,7 +24,7 @@ minimal UI, warm aesthetics, responsive layouts, and smooth user experience.
 
 # 📸 Preview
 
-![Project Preview](desktop.png)
+![Project Preview](./desktop.png)
 
 ---
 
